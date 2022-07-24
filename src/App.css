@@ -1,0 +1,21 @@
+section,
+h2 {
+  background-color: #0f3d3e;
+  color: #f1f1f1;
+  text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
+  height: 100vh;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.navBg {
+  background-color: #100f0f;
+}
+
+.flex-nav {
+  display: flex;
+  justify-content: flex-end;
+}
